@@ -1,2 +1,2 @@
 # coursera-test
-shit
+хуй
